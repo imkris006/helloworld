@@ -18,6 +18,8 @@
 `This is a code`
 ---
 Horizontal ruler used with(---)
+
 [link] (example.com)
-![Image name](image.jpg)
+
+![Rice 🍚](2023-10-24_13-20-28.png)
 ~~This is a strikethrough~~
